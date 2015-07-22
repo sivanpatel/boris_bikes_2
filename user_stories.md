@@ -1,7 +1,4 @@
 Nouns: Person, Bike, Docking Station
-<<<<<<< HEAD
-Verbs: Release, Works, Use. 
-=======
 Verbs: Release, Works, Use.
 
 | Noun          | Messages      |
