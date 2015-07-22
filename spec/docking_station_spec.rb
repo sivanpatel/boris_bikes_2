@@ -5,10 +5,8 @@ describe DockingStation do
     expect(subject).to respond_to :release_bike
   end
 
-
   it 'gets a bike' do
     bike = Bike.new
-    expect(subject.release_bike).to eq(bike)
-
+    expect(bike).to be_working
   end
 end
