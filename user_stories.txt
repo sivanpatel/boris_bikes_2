@@ -1,2 +1,2 @@
 Nouns: Person, Bike, Docking Station
-Verbs: Release, Works, Use.
+Verbs: Release, Works, Use. 
