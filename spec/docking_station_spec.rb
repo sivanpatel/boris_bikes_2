@@ -8,7 +8,7 @@ describe DockingStation do
 
   it 'gets a bike' do
     bike = Bike.new
-    expect(subject.release_bike).to eq(bike)
+    expect(subject.release_bike) == (bike)
 
   end
 end
